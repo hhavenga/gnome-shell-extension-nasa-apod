@@ -1,4 +1,7 @@
-# GNOME shell extension NASA APOD
+# This is a fork of
+## GNOME shell extension NASA APOD
+
+I have done this to test the "fork" function and to make changes without effecting the main project.
 
 Let this simple GNOME shell extension change your wallpaper every day to the
 NASA's Astronomy Picture Of the Day. It will also show a notification
@@ -19,7 +22,7 @@ You can help with development by testing and reporting issues.
 The command below downloads and install the current development version:
 
 ```
-git clone https://github.com/Elinvention/gnome-shell-extension-nasa-apod.git $HOME/.local/share/gnome-shell/extensions/nasa_apod@elinvention.ovh
+git clone https://github.com/hhavenga/gnome-shell-extension-nasa-apod.git $HOME/.local/share/gnome-shell/extensions/nasa_apod@elinvention.ovh
 gnome-shell-extension-tool -e nasa_apod@elinvention.ovh
 ```
 
